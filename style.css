@@ -1,0 +1,10 @@
+.App {
+
+}
+
+.SearchInput__input {
+    width: 300px;
+    height: 40px;
+    border-radius: 8px;
+    padding: 8px;
+}
