@@ -10,7 +10,6 @@ export default function App({ $target }) {
   };
 
   this.setState = (nextState) => {
-    console.log(this.state, nextState);
     this.state = {
       ...this.state,
       ...nextState,
